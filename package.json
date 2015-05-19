@@ -1,0 +1,19 @@
+{
+  "name": "witch-head-guru",
+  "version": "0.0.1",
+  "description": "Witch Head Guru",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Thomas Bergwinkl",
+    "email": "bergi@axolotlfarm.org"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "2.*",
+    "nlp_compromise": "0.5.*",
+    "request": "2.*"
+  }
+}
